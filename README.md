@@ -45,7 +45,7 @@ Skuteczność modeli ocenimy za pomocą metryk:
 
 ## 6. Planowany podział zadań
 - **Roksana Kanicka:** Konfiguracja repozytorium, wczytanie danych, preprocessing, Eksploracyjna analiza danych (EDA), implementacja modeli Regresji Liniowej i XGBoost.
-- **Wiktoria Nowak:** inżynieria cech (wyciągnięcie godziny), implementacja modelu Random Forest, implementacja alternatywnych modeli oraz końcowe porównanie wyników.
+- **Wiktoria Nowak:** wyciągnięcie godziny i miesiąca z cech, implementacja modelu Random Forest, implementacja alternatywnych modeli oraz końcowe porównanie wyników.
 
 ## 7. Do rozważenia:
 - **Optymalizacja hiperparametrów** - wykorzystanie GridSearchCV do znalezienia najlepszych ustawień modeli.
